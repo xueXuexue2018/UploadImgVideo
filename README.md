@@ -1,2 +1,0 @@
-# UploadImgVideo
-# uploadImage
